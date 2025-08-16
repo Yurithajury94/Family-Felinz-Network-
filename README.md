@@ -5,6 +5,14 @@ Family Felinz Network -The Adult Animated Comedy
 
 https://www.imdb.com/title/tt37540233/?ref_=ext_shr
 
+Think Boondocks meets Rick and Morty, with the lyrical fire of Atlanta and the swagger of a midnight cypher. The Family Felinz Network is a bold, irreverent adult animated comedy that dives high-stakes world of hip-hop—through the eyes of two rap superstar brothers yuri tha Jury straight Shooter
+
+English
+
+Director: Yuri tha Jury writer: Terrence Trice Producer: Terrence Trice
+
+Cast: Yuri tha Jury straight Shooter Terrence Trice Thomas Mckenny Actavious Jordan Torre Trice
+
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="utf-8" />
